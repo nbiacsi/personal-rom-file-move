@@ -3,10 +3,12 @@ Two Python scripts that are made for moving the contents of ROMS and BIOS files 
 
 # robocopy_files_backup.py
 Script to backup the files. Modules used:
-    - subprocess -> call
-    - os -> listdir, makedirs
+- subprocess -> call
+
+- os -> listdir, makedirs
 
 # robocopy_files_restore.py
 Script to restore the files. Modules used:
-    - subprocess -> call
-    - os -> listdir
+- subprocess -> call
+
+- os -> listdir
